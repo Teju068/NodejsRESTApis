@@ -1,6 +1,6 @@
 # NodejsRESTApis
-This is Test application to demonstrate a REST apis using nodejs
-How to Test this Application
+
+	How to Test this Application
 
 	1. Intial set up required to run this:  Nodejs/npm
 	2. Download the full workspace on Desktop
